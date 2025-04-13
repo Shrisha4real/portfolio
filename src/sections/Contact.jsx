@@ -22,8 +22,7 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_heo6l47',
-        'template_h7hw5ml',
+
 
         import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
