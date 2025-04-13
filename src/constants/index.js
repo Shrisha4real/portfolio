@@ -11,14 +11,10 @@ export const navLinks = [
     },
     {
       id: 3,
-      name: 'Work',
+      name: 'Works',
       href: '#work',
     },
-    {
-      id: 4,
-      name: 'Contact',
-      href: '#contact',
-    },
+ 
   ];
   
   
